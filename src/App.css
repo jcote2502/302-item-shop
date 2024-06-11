@@ -52,3 +52,28 @@
   text-align: center;
   padding:50px;
 }
+
+@media only screen and (max-width:480px) {
+  .header{
+    font-size: 42px;
+  }
+
+  .image{
+    height: 200px;
+    padding:8px;
+  }
+
+  .item-price{
+    font-size: 18px;
+  }
+
+  .item-name{
+    font-size: 24px;
+  }
+
+  .footer{
+    font-size: 38px;
+    padding: 30px;
+  }
+
+}

@@ -6,6 +6,9 @@ function App() {
       <div className='header'>
         Item Shop
       </div>
+      <div className='header'>
+        Bulk Deal - Buy Every Item at these prices. See Grand Total at Bottom.
+      </div>
       <div className='wrap'>
         {ItemData.map((item) => {
           return <MyHero data={item} />

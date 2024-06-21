@@ -15,7 +15,7 @@ function App() {
         })}
       </div>
       <div className='footer'>
-        Grand Total : $585
+        Grand Total : $550
       </div>
     </>
   );
